@@ -139,7 +139,7 @@ val/*
 dataset_dect.json
 #dataset.npz
 #facenet_keras.h5
-#faces-embeddings.npz
+#faces_embeddings.npz
 test_images.zip
 training_images.zip
 name.mp3
