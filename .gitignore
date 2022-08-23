@@ -137,9 +137,9 @@ training_images/*
 val/*
 
 dataset_dect.json
-dataset.npz
-facenet_keras.h5
-faces-embeddings.npz
+#dataset.npz
+#facenet_keras.h5
+#faces-embeddings.npz
 test_images.zip
 training_images.zip
 name.mp3
